@@ -1,0 +1,180 @@
+# 通达信量化在线帮助（本地镜像）
+
+> **版权声明**：正文转载自通达信官方帮助站点，版权归深圳市财富趋势科技股份有限公司所有。 **请以在线版为准**：
+> https://help.tdx.com.cn/quant/docs/
+
+本目录由仓库脚本 `scripts/sync_tdx_help_docs.py` 于 **2026-11-06T06:05:24Z** 生成。
+请勿将本镜像作为官方文档对外分发；仅供本地学习与开发辅助。
+
+## 页面索引（按标题排序）
+
+- [1、取中证2000指数的最近1000只日K线](pages/markdown__data_mini_exam.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/data_mini_exam.html`
+- [Bar 回调函数](pages/markdown__mindoc-1hho7blr2j340__mindoc-1hho9d546pbhc__mindoc-1hho9jic0qbu8.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340/mindoc-1hho9d546pbhc/mindoc-1hho9jic0qbu8.html`
+- [context回测对象](pages/markdown__mindoc-1hho7blr2j340__mindoc-1hho9u0cbfe60.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340/mindoc-1hho9u0cbfe60`
+- [context表单参数](pages/markdown__mindoc-1hho7blr2j340__mindoc-1hho9u0cbfe60__mindoc-1hhoahrgeati0.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340/mindoc-1hho9u0cbfe60/mindoc-1hhoahrgeati0.html`
+- [ETF/可转债/期货数据](pages/markdown__mindoc-1h13a594nhvb4.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h13a594nhvb4`
+- [HTTP方式调用](pages/markdown__mindoc-1hdhbmi50d038.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hdhbmi50d038.html`
+- [MACD初选与竞价9:20异动](pages/markdown__mindoc-1h1525ci3mnkc__mindoc-1hp49sodmb7r8.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h1525ci3mnkc/mindoc-1hp49sodmb7r8.html`
+- [Order对象](pages/markdown__mindoc-1hho7blr2j340__mindoc-1hho9u0cbfe60__order.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340/mindoc-1hho9u0cbfe60/order.html`
+- [Q：运行的python文件可不可以随便放，不一定在PYPlugins\user目录下？](pages/markdown__mindoc-tdxpy.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-tdxpy.html`
+- [set_benchmark](pages/markdown__mindoc-1hho7blr2j340__mindoc-1hhoa58m7i93s.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340/mindoc-1hhoa58m7i93s`
+- [TdxAiData特有函数](pages/markdown__mindoc-1hjbidnohpjn4.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hjbidnohpjn4`
+- [TdxAiData简介](pages/markdown__mindoc-1hjbgqpdhv114.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hjbgqpdhv114.html`
+- [TdxQuant 简介](pages/markdown__mindoc-1cfsjkbf8f3is.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1cfsjkbf8f3is`
+- [Trade对象](pages/markdown__mindoc-1hho7blr2j340__mindoc-1hho9u0cbfe60__trade.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340/mindoc-1hho9u0cbfe60/trade.html`
+- [VBT简单回测并输出图形](pages/markdown__mindoc-1h1525ci3mnkc__mindoc-1h62qo3mceppc.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h1525ci3mnkc/mindoc-1h62qo3mceppc.html`
+- [下载特定数据文件download_file](pages/markdown__ctx.stock.md__mindoc-1h10pqrdlj71o.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/ctx.stock.md/mindoc-1h10pqrdlj71o.html`
+- [专用数据函数](pages/markdown__mindoc-1hho7blr2j340__mindoc-1hhoaleti08f0.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340/mindoc-1hhoaleti08f0`
+- [交易函数](pages/markdown__mindoc-1h7k4iqb1grk4.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h7k4iqb1grk4`
+- [交易执行函数](pages/markdown__mindoc-1h7k4iqb1grk4__mindoc-1h7k5j4drr928.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h7k4iqb1grk4/mindoc-1h7k5j4drr928.html`
+- [什么是量化交易](pages/markdown__mindoc-1h12t4q6fg29o.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h12t4q6fg29o.html`
+- [公众号文章示例](pages/markdown__gzh0122inweixinwenz.md) — `https://help.tdx.com.cn/quant/docs/markdown/gzh0122inweixinwenz`
+- [其他设置函数](pages/markdown__mindoc-1hho7blr2j340__mindoc-1hhoa58m7i93s__mindoc-1hhoak9m7p5io.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340/mindoc-1hhoa58m7i93s/mindoc-1hhoak9m7p5io.html`
+- [分类/板块成份股](pages/markdown__mindoc-1ctuhttn72svo.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1ctuhttn72svo`
+- [创建自定义板块](pages/markdown__mindoc-1h139a4ckchkk__mindoc-1h10rrkuj1drs.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h139a4ckchkk/mindoc-1h10rrkuj1drs.html`
+- [初始化initialize](pages/markdown__ctx.stock.md__mindoc-1cv85e8u9nb0c.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/ctx.stock.md/mindoc-1cv85e8u9nb0c.html`
+- [初始化函数](pages/markdown__mindoc-1hho7blr2j340__mindoc-1hho9d546pbhc__mindoc-1hho9hh3kshvo.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340/mindoc-1hho9d546pbhc/mindoc-1hho9hh3kshvo.html`
+- [删除自定义板块](pages/markdown__mindoc-1h139a4ckchkk__mindoc-1h10s391lng6s.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h139a4ckchkk/mindoc-1h10s391lng6s.html`
+- [删除自定义板块成份股deluserblock](pages/markdown__mindoc-1h139a4ckchkk__mindoc-1hoq1jegh47cs.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h139a4ckchkk/mindoc-1hoq1jegh47cs.html`
+- [刷新历史K线缓存refresh_kline](pages/markdown__ctx.stock.md__mindoc-1h10fh9m6recg.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/ctx.stock.md/mindoc-1h10fh9m6recg.html`
+- [刷新行情缓存(最新snapshot和K线数据)refresh_cache](pages/markdown__ctx.stock.md__mindoc-1h10f9145us1g.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/ctx.stock.md/mindoc-1h10f9145us1g.html`
+- [原生指标函数](pages/markdown__mindoc-1hho7blr2j340__mindoc-1hhoaleti08f0__mindoc-1hhoasuth0c00.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340/mindoc-1hhoaleti08f0/mindoc-1hhoasuth0c00.html`
+- [发送回测数据send_bt_data](pages/markdown__ctx.stock.md__mindoc-1h10vc2pot87c.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/ctx.stock.md/mindoc-1h10vc2pot87c.html`
+- [发送文件到客户端send_file](pages/markdown__ctx.stock.md__mindoc-1h10u17ue9464.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/ctx.stock.md/mindoc-1h10u17ue9464.html`
+- [发送消息到通达信客户端send_message](pages/markdown__ctx.stock.md__mindoc-1h10rkbndkb0k.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/ctx.stock.md/mindoc-1h10rkbndkb0k.html`
+- [发送预警信号send_warn](pages/markdown__ctx.stock.md__mindoc-1h10u5k9qjh8o.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/ctx.stock.md/mindoc-1h10u5k9qjh8o.html`
+- [取当前账户快照 get_portfolio](pages/markdown__mindoc-1hho7blr2j340__mindoc-1hib696p7b7gc__mindoc-1hib6pevs6fck.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340/mindoc-1hib696p7b7gc/mindoc-1hib6pevs6fck.html`
+- [取消实时行情订阅 unsubscribe](pages/markdown__mindoc-1hjbidnohpjn4__mindoc-1hlsf1ifqpt8k.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hjbidnohpjn4/mindoc-1hlsf1ifqpt8k.html`
+- [取消订阅更新unsubscribe_hq](pages/markdown__ctx.stock.md__mindoc-1h112vh7jtsms.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/ctx.stock.md/mindoc-1h112vh7jtsms.html`
+- [向通达信公式设置数据formula_set_data](pages/markdown__mindoc-1h3hrvkp4sc0g__mindoc-1h3hsvcct5sdc.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h3hrvkp4sc0g/mindoc-1h3hsvcct5sdc.html`
+- [向通达信公式设置数据信息formula_set_data_info](pages/markdown__mindoc-1h3hrvkp4sc0g__mindoc-1h3hs08rn02uc.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h3hrvkp4sc0g/mindoc-1h3hs08rn02uc.html`
+- [因子缓存辅助](pages/markdown__mindoc-1hho7blr2j340__mindoc-1hhoaleti08f0__mindoc-1hhoapc2dga88.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340/mindoc-1hhoaleti08f0/mindoc-1hhoapc2dga88.html`
+- [场景化示例](pages/markdown__mindoc-1h1525ci3mnkc.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h1525ci3mnkc`
+- [委托回调函数 on_order](pages/markdown__mindoc-1hho7blr2j340__mindoc-1hho9d546pbhc__mindoc-1hib55063ha7o.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340/mindoc-1hho9d546pbhc/mindoc-1hib55063ha7o.html`
+- [委托回调函数 on_trade](pages/markdown__mindoc-1hho7blr2j340__mindoc-1hho9d546pbhc__mindoc-1hib60s1q4hbg.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340/mindoc-1hho9d546pbhc/mindoc-1hib60s1q4hbg.html`
+- [安装Python及VSCode等开发环境](pages/markdown__mindoc-1cfsjkbf8f3is__mindoc-1d00970eq1rtc.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1cfsjkbf8f3is/mindoc-1d00970eq1rtc.html`
+- [完整示例](pages/markdown__mindoc-1hho7blr2j340__mindoc-1hhodeob36hi4.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340/mindoc-1hhodeob36hi4.html`
+- [定时任务函数](pages/markdown__mindoc-1hho7blr2j340__mindoc-1hibf3lo5qk7g.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340/mindoc-1hibf3lo5qk7g`
+- [导出多组数据到通达信客户端 print_to_tdx](pages/markdown__ctx.stock.md__mindoc-1h62l8kg2k4jc.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/ctx.stock.md/mindoc-1h62l8kg2k4jc.html`
+- [常见问题](pages/markdown__mindoc-1hho7blr2j340__mindoc-1hhodgohoq4j0.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340/mindoc-1hhodgohoq4j0.html`
+- [常量枚举](pages/markdown__Dict.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/Dict.html`
+- [开启轻量函数耗时统计](pages/markdown__mindoc-1hho7blr2j340__mindoc-1hhoa58m7i93s__mindoc-1hhoajhqre804.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340/mindoc-1hhoa58m7i93s/mindoc-1hhoajhqre804.html`
+- [开盘前函数](pages/markdown__mindoc-1hho7blr2j340__mindoc-1hho9d546pbhc__mindoc-1hho9irt0nu3s.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340/mindoc-1hho9d546pbhc/mindoc-1hho9irt0nu3s.html`
+- [打通通达信量化任督二脉：公式与Python双向数据互通闭环](pages/markdown__gzh0122inweixinwenz__gzh20260302wzlz.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/gzh0122inweixinwenz/gzh20260302wzlz.html`
+- [执行选股策略并加入客户端自定义板块](pages/markdown__mindoc-1h1525ci3mnkc__mindoc-1h15262vnafcc.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h1525ci3mnkc/mindoc-1h15262vnafcc.html`
+- [批量获取价量get_pricevol](pages/markdown__mindoc-1ctuhthaq5qmg__mindoc-1hce2o96aktmk.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1ctuhthaq5qmg/mindoc-1hce2o96aktmk.html`
+- [批量获取可转债基础信息getkzzinfo_batch](pages/markdown__mindoc-1h13a594nhvb4__mindoc-1hlnuvdpvh6o4.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h13a594nhvb4/mindoc-1hlnuvdpvh6o4.html`
+- [批量获取快照数据getmarketsnapshot_batch](pages/markdown__mindoc-1ctuhthaq5qmg__mindoc-1hlnpjm512efk.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1ctuhthaq5qmg/mindoc-1hlnpjm512efk.html`
+- [批量获取股票基本信息getstockinfo_batch](pages/markdown__mindoc-1ctuhthaq5qmg__mindoc-1hlnuonsp0amo.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1ctuhthaq5qmg/mindoc-1hlnuonsp0amo.html`
+- [批量获取股票更多信息getmoreinfo_batch](pages/markdown__mindoc-1ctuhthaq5qmg__mindoc-1hlnup4o0ei68.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1ctuhthaq5qmg/mindoc-1hlnup4o0ei68.html`
+- [批量获取集合竞价getcallauction_batch](pages/markdown__mindoc-1hjbidnohpjn4__mindoc-1hlsf010md5gg.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hjbidnohpjn4/mindoc-1hlsf010md5gg.html`
+- [批量计算多标的基础选股因子](pages/markdown__mindoc-1hho7blr2j340__mindoc-1hhoaleti08f0__mindoc-1hhoantm89gu4.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340/mindoc-1hhoaleti08f0/mindoc-1hhoantm89gu4.html`
+- [批量调用通达信公式formula_process_mul_xg/zb/exp](pages/markdown__mindoc-1h3hrvkp4sc0g__mindoc-1h4ad5lisvdfg.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h3hrvkp4sc0g/mindoc-1h4ad5lisvdfg.html`
+- [批量运行通达信公式文件formulabyfile](pages/markdown__mindoc-1h3hrvkp4sc0g__mindoc-1hnil4jq8t5f4.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h3hrvkp4sc0g/mindoc-1hnil4jq8t5f4.html`
+- [批量运行通达信公式源码formulabysrc](pages/markdown__mindoc-1h3hrvkp4sc0g__mindoc-1hnijf27a2irc.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h3hrvkp4sc0g/mindoc-1hnijf27a2irc.html`
+- [按周、按月定时运行函数](pages/markdown__mindoc-1hho7blr2j340__mindoc-1hibf3lo5qk7g__mindoc-1hibf6bvaogfo.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340/mindoc-1hibf3lo5qk7g/mindoc-1hibf6bvaogfo.html`
+- [按数量下单](pages/markdown__mindoc-1hho7blr2j340__mindoc-1hhobbn0nuedg__mindoc-1hhobbvteo4ds.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340/mindoc-1hhobbn0nuedg/mindoc-1hhobbvteo4ds.html`
+- [按金额下单](pages/markdown__mindoc-1hho7blr2j340__mindoc-1hhobbn0nuedg__mindoc-1hhobcp20bskg.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340/mindoc-1hhobbn0nuedg/mindoc-1hhobcp20bskg.html`
+- [提交撤单](pages/markdown__mindoc-1hho7blr2j340__mindoc-1hhobbn0nuedg__mindoc-1hhobgp6ravs4.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340/mindoc-1hhobbn0nuedg/mindoc-1hhobgp6ravs4.html`
+- [提供3个Skills包供各智能体平台安装](pages/markdown__mindoc-1he2c52nvvdkg.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1he2c52nvvdkg.html`
+- [撤单](pages/markdown__mindoc-1h7k4iqb1grk4__mindoc-1h84elp5atr6o.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h7k4iqb1grk4/mindoc-1h84elp5atr6o.html`
+- [收盘后函数](pages/markdown__mindoc-1hho7blr2j340__mindoc-1hho9d546pbhc__mindoc-1hho9kq57km1c.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340/mindoc-1hho9d546pbhc/mindoc-1hho9kq57km1c.html`
+- [时间函数](pages/markdown__mindoc-1hho7blr2j340__mindoc-1hhoaleti08f0__mindoc-1hhob071fp9s4.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340/mindoc-1hhoaleti08f0/mindoc-1hhob071fp9s4.html`
+- [查全部/指定持仓字典 get_positions](pages/markdown__mindoc-1hho7blr2j340__mindoc-1hib696p7b7gc__mindoc-1hib6kkioc08g.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340/mindoc-1hib696p7b7gc/mindoc-1hib6kkioc08g.html`
+- [查单只持仓 get_position](pages/markdown__mindoc-1hho7blr2j340__mindoc-1hib696p7b7gc__mindoc-1hib6nhrouuvg.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340/mindoc-1hib696p7b7gc/mindoc-1hib6nhrouuvg.html`
+- [查询可用资金 get_cash](pages/markdown__mindoc-1hho7blr2j340__mindoc-1hib696p7b7gc__mindoc-1hib69thso1oo.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340/mindoc-1hib696p7b7gc/mindoc-1hib69thso1oo.html`
+- [查询账户委托信息](pages/markdown__mindoc-1h7k4iqb1grk4__mindoc-1h7k4rp481gt4.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h7k4iqb1grk4/mindoc-1h7k4rp481gt4.html`
+- [查询账户持仓信息](pages/markdown__mindoc-1h7k4iqb1grk4__mindoc-1h7k5ar9kc508.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h7k4iqb1grk4/mindoc-1h7k5ar9kc508.html`
+- [查询账户资产信息](pages/markdown__mindoc-1h7k4iqb1grk4__mindoc-1h84fvcjulrnc.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h7k4iqb1grk4/mindoc-1h84fvcjulrnc.html`
+- [根据时间段获取股本数据get_gb_info_by_date](pages/markdown__mindoc-1ctuhthaq5qmg__mindoc-1hc4303vsv1fk.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1ctuhthaq5qmg/mindoc-1hc4303vsv1fk.html`
+- [格式化K线数据formula_format_data](pages/markdown__mindoc-1h3hrvkp4sc0g__mindoc-1h3hte6obagc0.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h3hrvkp4sc0g/mindoc-1h3hte6obagc0.html`
+- [检索证券信息get_match_stkinfo](pages/markdown__ctx.stock.md__mindoc-1hdguaia2v4bo.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/ctx.stock.md/mindoc-1hdguaia2v4bo.html`
+- [步骤分解](pages/markdown__mindoc-1cfsjkbf8f3is__mindoc-1cv7o3nje2gu8.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1cfsjkbf8f3is/mindoc-1cv7o3nje2gu8.html`
+- [每日定时运行函数](pages/markdown__mindoc-1hho7blr2j340__mindoc-1hibf3lo5qk7g__mindoc-1hibf4cf978ng.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340/mindoc-1hibf3lo5qk7g/mindoc-1hibf4cf978ng.html`
+- [比例和目标市值下单](pages/markdown__mindoc-1hho7blr2j340__mindoc-1hhobbn0nuedg__mindoc-1hhobe5d2u5e8.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340/mindoc-1hhobbn0nuedg/mindoc-1hhobe5d2u5e8.html`
+- [添加自定义板块成份股](pages/markdown__mindoc-1h139a4ckchkk__mindoc-1h10sec960u0c.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h139a4ckchkk/mindoc-1h10sec960u0c.html`
+- [清空自定义板块成份股](pages/markdown__mindoc-1h139a4ckchkk__mindoc-1h10sbcnl1c94.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h139a4ckchkk/mindoc-1h10sbcnl1c94.html`
+- [版本更新说明](pages/markdown__mindoc-1cfsjkbf8f3is__TdxQuantVersion.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1cfsjkbf8f3is/TdxQuantVersion.html`
+- [策略生命周期](pages/markdown__mindoc-1hho7blr2j340__mindoc-1hho9d546pbhc.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340/mindoc-1hho9d546pbhc`
+- [策略结束函数](pages/markdown__mindoc-1hho7blr2j340__mindoc-1hho9d546pbhc__mindoc-1hho9lb0bd8ck.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340/mindoc-1hho9d546pbhc/mindoc-1hho9lb0bd8ck.html`
+- [统一证券代码格式](pages/markdown__mindoc-1hho7blr2j340__mindoc-1hibfhi6jhlqs.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340/mindoc-1hibfhi6jhlqs.html`
+- [自选股/自定义板块](pages/markdown__mindoc-1h139a4ckchkk.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h139a4ckchkk`
+- [获取A股板块代码列表get_sector_list](pages/markdown__mindoc-1ctuhttn72svo__mindoc-1h10r5907noko.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1ctuhttn72svo/mindoc-1h10r5907noko.html`
+- [获取K线行情get_market_data](pages/markdown__mindoc-1ctuhthaq5qmg__mindoc-1h10g60jt68sc.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1ctuhthaq5qmg/mindoc-1h10g60jt68sc.html`
+- [获取专业财务数据get_financial_data](pages/markdown__TdxQuant.md__mindoc-1h10m001ic888.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/TdxQuant.md/mindoc-1h10m001ic888.html`
+- [获取个股综合信息getmiscdata](pages/markdown__mindoc-1hjbidnohpjn4__mindoc-1ho92iob82c58.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hjbidnohpjn4/mindoc-1ho92iob82c58.html`
+- [获取交易日列表get_trading_dates](pages/markdown__mindoc-1ctuhthaq5qmg__mindoc-1h10q7i3702rk.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1ctuhthaq5qmg/mindoc-1h10q7i3702rk.html`
+- [获取公式中的设置数据formula_get_data](pages/markdown__mindoc-1h3hrvkp4sc0g__mindoc-1h3httgemshno.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h3hrvkp4sc0g/mindoc-1h3httgemshno.html`
+- [获取分时统计数据getexmindata](pages/markdown__mindoc-1hjbidnohpjn4__mindoc-1hoq24tnhmai0.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hjbidnohpjn4/mindoc-1hoq24tnhmai0.html`
+- [获取分笔行情gettickdata](pages/markdown__mindoc-1hjbidnohpjn4__mindoc-1hlsetap441rs.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hjbidnohpjn4/mindoc-1hlsetap441rs.html`
+- [获取分红送配数据get_divid_factors](pages/markdown__mindoc-1ctuhthaq5qmg__mindoc-1h10hsiat36k4.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1ctuhthaq5qmg/mindoc-1h10hsiat36k4.html`
+- [获取历史成交queryhistorytrade](pages/markdown__mindoc-1h7k4iqb1grk4__mindoc-1hlnun1348n54.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h7k4iqb1grk4/mindoc-1hlnun1348n54.html`
+- [获取可转债信息get_kzz_info](pages/markdown__mindoc-1h13a594nhvb4__mindoc-1h137euvcjn98.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h13a594nhvb4/mindoc-1h137euvcjn98.html`
+- [获取市场交易数据](pages/markdown__TdxQuant.md__mindoc-1h10p8op6ia9g.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/TdxQuant.md/mindoc-1h10p8op6ia9g.html`
+- [获取市场整体情况getglobaldata](pages/markdown__mindoc-1hjbidnohpjn4__mindoc-1hnnqtspb6kdk.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hjbidnohpjn4/mindoc-1hnnqtspb6kdk.html`
+- [获取快照数据get_market_snapshot](pages/markdown__mindoc-1ctuhthaq5qmg__mindoc-1h10iig4pb6e0.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1ctuhthaq5qmg/mindoc-1h10iig4pb6e0.html`
+- [获取扩展市场板块代码列表get_sector_list_ds](pages/markdown__mindoc-1ctuhttn72svo__mindoc-1hmdk6i1nivmc.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1ctuhttn72svo/mindoc-1hmdk6i1nivmc.html`
+- [获取指定公式信息formula_get_info](pages/markdown__mindoc-1h3hrvkp4sc0g__mindoc-1hce356csmgmo.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h3hrvkp4sc0g/mindoc-1hce356csmgmo.html`
+- [获取指定日期专业财务数据get_financial_data_by_date](pages/markdown__TdxQuant.md__mindoc-1h10mdt617qss.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/TdxQuant.md/mindoc-1h10mdt617qss.html`
+- [获取指定日期分时数据 getminutedata](pages/markdown__mindoc-1hjbidnohpjn4__mindoc-1hlseu05n86ek.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hjbidnohpjn4/mindoc-1hlseu05n86ek.html`
+- [获取指定日期市场交易数据get_scjy_value_by_date](pages/markdown__TdxQuant.md__mindoc-1h10pe678ta04.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/TdxQuant.md/mindoc-1h10pe678ta04.html`
+- [获取指定日期板块交易数据get_bkjy_value_by_date](pages/markdown__TdxQuant.md__mindoc-1h10p3d31736g.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/TdxQuant.md/mindoc-1h10p3d31736g.html`
+- [获取指定日期股票交易数据get_gpjy_value_by_date](pages/markdown__TdxQuant.md__mindoc-1h2pci5gh6h7k.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/TdxQuant.md/mindoc-1h2pci5gh6h7k.html`
+- [获取指定种类的公式列表formula_get_all](pages/markdown__mindoc-1h3hrvkp4sc0g__mindoc-1hce2u769tljc.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h3hrvkp4sc0g/mindoc-1hce2u769tljc.html`
+- [获取指数成分股getzzgzstocklist](pages/markdown__mindoc-1hjbidnohpjn4__mindoc-1hlseuoousuvo.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hjbidnohpjn4/mindoc-1hlseuoousuvo.html`
+- [获取新股申购信息get_ipo_info](pages/markdown__mindoc-1ctuhthaq5qmg__mindoc-1h137jr3khrqo.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1ctuhthaq5qmg/mindoc-1h137jr3khrqo.html`
+- [获取日线资金统计数据get_exday_data](pages/markdown__mindoc-1ctuhthaq5qmg__mindoc-1hh9gktmqsv5c.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1ctuhthaq5qmg/mindoc-1hh9gktmqsv5c.html`
+- [获取板块交易数据get_bkjy_value](pages/markdown__TdxQuant.md__mindoc-1h10p0ncmp5mc.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/TdxQuant.md/mindoc-1h10p0ncmp5mc.html`
+- [获取板块成份股get_stock_list_in_sector](pages/markdown__mindoc-1ctuhttn72svo__mindoc-1h10r92mchgug.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1ctuhttn72svo/mindoc-1h10r92mchgug.html`
+- [获取每天的股本数据get_gb_info](pages/markdown__mindoc-1ctuhthaq5qmg__mindoc-1h3ru0b1tssrc.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1ctuhthaq5qmg/mindoc-1h3ru0b1tssrc.html`
+- [获取版本信息get_version](pages/markdown__ctx.stock.md__mindoc-1hoq1i96i9trc.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/ctx.stock.md/mindoc-1hoq1i96i9trc.html`
+- [获取系统分类成份股get_stock_list](pages/markdown__mindoc-1ctuhttn72svo__mindoc-1h10qo3uj48fg.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1ctuhttn72svo/mindoc-1h10qo3uj48fg.html`
+- [获取股票交易数据get_gpjy_value](pages/markdown__TdxQuant.md__mindoc-1h10muc82r55k.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/TdxQuant.md/mindoc-1h10muc82r55k.html`
+- [获取股票所属板块](pages/markdown__mindoc-1ctuhthaq5qmg__mindoc-1h84ec4p26qus.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1ctuhthaq5qmg/mindoc-1h84ec4p26qus.html`
+- [获取股票更多信息get_more_info](pages/markdown__mindoc-1ctuhthaq5qmg__mindoc-1h3rtq1hij0ac.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1ctuhthaq5qmg/mindoc-1h3rtq1hij0ac.html`
+- [获取股票标记getstockmark](pages/markdown__mindoc-1h139a4ckchkk__mindoc-1hnnu606ehjd8.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h139a4ckchkk/mindoc-1hnnu606ehjd8.html`
+- [获取股票涨跌停数据get_zdt_data](pages/markdown__mindoc-1ctuhthaq5qmg__mindoc-1hh9i0av0gtok.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1ctuhthaq5qmg/mindoc-1hh9i0av0gtok.html`
+- [获取股票的单个财务数据get_gp_one_data](pages/markdown__TdxQuant.md__mindoc-1h10pk3rsg044.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/TdxQuant.md/mindoc-1h10pk3rsg044.html`
+- [获取自定义板块列表get_user_sector](pages/markdown__mindoc-1h139a4ckchkk__mindoc-1h1hauh9inaac.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h139a4ckchkk/mindoc-1h1hauh9inaac.html`
+- [获取证券基本信息get_stock_info](pages/markdown__mindoc-1ctuhthaq5qmg__mindoc-1h10jj7r7jol4.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1ctuhthaq5qmg/mindoc-1h10jj7r7jol4.html`
+- [获取资金账户句柄](pages/markdown__mindoc-1h7k4iqb1grk4__mindoc-1h7k4k5tk6q64.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h7k4iqb1grk4/mindoc-1h7k4k5tk6q64.html`
+- [获取跟踪指数的ETF信息get_trackzs_etf_info](pages/markdown__mindoc-1h13a594nhvb4__mindoc-1h6hknp6pjppc.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h13a594nhvb4/mindoc-1h6hknp6pjppc.html`
+- [获取集合排名行情getdomainsorthq](pages/markdown__mindoc-1hjbidnohpjn4__mindoc-1hmdnqahdoeo0.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hjbidnohpjn4/mindoc-1hmdnqahdoeo0.html`
+- [获取集合竞价getcallauction](pages/markdown__mindoc-1hjbidnohpjn4__mindoc-1hlsevg97ftug.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hjbidnohpjn4/mindoc-1hlsevg97ftug.html`
+- [获得订阅列表get_subscribe_hq_stock_list](pages/markdown__ctx.stock.md__mindoc-1h1137r4k2mas.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/ctx.stock.md/mindoc-1h1137r4k2mas.html`
+- [计算调仓信号并快速买卖](pages/markdown__mindoc-1h1525ci3mnkc__mindoc-1h1ep1rl20jv8.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h1525ci3mnkc/mindoc-1h1ep1rl20jv8.html`
+- [订单和成交查询](pages/markdown__mindoc-1hho7blr2j340__mindoc-1hhobbn0nuedg__mindoc-1hhobfk2rmg84.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340/mindoc-1hhobbn0nuedg/mindoc-1hhobfk2rmg84.html`
+- [订阅实时行情 subscribe](pages/markdown__mindoc-1hjbidnohpjn4__mindoc-1hlsf0u13l0d4.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hjbidnohpjn4/mindoc-1hlsf0u13l0d4.html`
+- [订阅行情subscribe_hq](pages/markdown__ctx.stock.md__mindoc-1h1104d65vr68.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/ctx.stock.md/mindoc-1h1104d65vr68.html`
+- [订阅行情涨幅突破实时预计](pages/markdown__mindoc-1h1525ci3mnkc__mindoc-1h1526nmnk5n4.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h1525ci3mnkc/mindoc-1h1526nmnk5n4.html`
+- [记录和日志](pages/markdown__mindoc-1hho7blr2j340__mindoc-1hhoc0a5b29v0.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340/mindoc-1hhoc0a5b29v0.html`
+- [设置交易费用](pages/markdown__mindoc-1hho7blr2j340__mindoc-1hhoa58m7i93s__mindoc-1hhoa7gjbabuo.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340/mindoc-1hhoa58m7i93s/mindoc-1hhoa7gjbabuo.html`
+- [设置回测基准](pages/markdown__mindoc-1hho7blr2j340__mindoc-1hhoa58m7i93s__mindoc-1hhoa5ki6fpkk.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340/mindoc-1hhoa58m7i93s/mindoc-1hhoa5ki6fpkk.html`
+- [设置滑点](pages/markdown__mindoc-1hho7blr2j340__mindoc-1hhoa58m7i93s__mindoc-1hhoa91t58dgk.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340/mindoc-1hhoa58m7i93s/mindoc-1hhoa91t58dgk.html`
+- [设置通用回测选项](pages/markdown__mindoc-1hho7blr2j340__mindoc-1hhoa58m7i93s__mindoc-1hhoaba3gefmg.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340/mindoc-1hhoa58m7i93s/mindoc-1hhoaba3gefmg.html`
+- [调整到目标持仓数量](pages/markdown__mindoc-1hho7blr2j340__mindoc-1hhobbn0nuedg__mindoc-1hhobdfdncbo0.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340/mindoc-1hhobbn0nuedg/mindoc-1hhobdfdncbo0.html`
+- [调用客户端功能](pages/markdown__ctx.stock.md__mindoc-1h85iq443j44c.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/ctx.stock.md/mindoc-1h85iq443j44c.html`
+- [调用通达信公式](pages/markdown__mindoc-1h3hrvkp4sc0g.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h3hrvkp4sc0g`
+- [调用通达信公式进行计算formula_zb/xg/exp](pages/markdown__mindoc-1h3hrvkp4sc0g__mindoc-1h3huq37005ro.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h3hrvkp4sc0g/mindoc-1h3huq37005ro.html`
+- [财务类数据](pages/markdown__TdxQuant.md.md) — `https://help.tdx.com.cn/quant/docs/markdown/TdxQuant.md`
+- [账户查询函数](pages/markdown__mindoc-1hho7blr2j340__mindoc-1hib696p7b7gc.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340/mindoc-1hib696p7b7gc`
+- [通用函数](pages/markdown__ctx.stock.md.md) — `https://help.tdx.com.cn/quant/docs/markdown/ctx.stock.md`
+- [通达信AI积分量化数据服务用户协议](pages/markdown__mindoc-1hp49ff1nkrus.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hp49ff1nkrus.html`
+- [通达信Lambda量化平台专属函数](pages/markdown__mindoc-1hho7blr2j340.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340`
+- [通达信TdxAiData：Python独立数据接口，无需启动客户端](pages/markdown__gzh0122inweixinwenz__gzh20260302wzlz-tdxaidata.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/gzh0122inweixinwenz/gzh20260302wzlz-tdxaidata.html`
+- [通达信TdxAiData：一次跑完沪深300 两融，四象限看清杠杆资金的真实动向 (opens new window)](pages/markdown__gzh0122inweixinwenz__20261104gzhwzrzrq.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/gzh0122inweixinwenz/20261104gzhwzrzrq.html`
+- [通达信TdxAiData：三行代码拿到 F10 综合信息 (opens new window)](pages/markdown__gzh0122inweixinwenz__20261030gzhwz.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/gzh0122inweixinwenz/20261030gzhwz.html`
+- [通达信TdxAiData：手搓一套自用的股软，字段/指标/规则/预警全搞定](pages/markdown__gzh0122inweixinwenz__20261015gzhwz.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/gzh0122inweixinwenz/20261015gzhwz.html`
+- [通达信TdxAiData：用批量竞价数据做"上提一字"竞价形态选股](pages/markdown__gzh0122inweixinwenz__20261008gzhwz.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/gzh0122inweixinwenz/20261008gzhwz.html`
+- [通达信TQ可以获取如下数据](pages/markdown__mindoc-1ctuhthaq5qmg.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1ctuhthaq5qmg`
+- [通达信TQ策略介绍和应用示例](pages/markdown__gzh0122inweixinwenz__gzh20260122wzlz.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/gzh0122inweixinwenz/gzh20260122wzlz.html`
+- [通达信量化平台](pages/markdown__mindoc-1cfsjkbf8f3is__mindoc-1d00kk3jsibbc.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1cfsjkbf8f3is/mindoc-1d00kk3jsibbc.html`
+- [通达信量化平台](pages/markdown__mindoc-1hho7blr2j340__mindoc-1hhobbn0nuedg.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340/mindoc-1hhobbn0nuedg`
+- [通达信量化平台](pages/markdown__mindoc-1hho7blr2j340__mindoc-1hho9u0cbfe60__huicecontext.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340/mindoc-1hho9u0cbfe60/huicecontext.html`
+- [通达信量化平台](pages/markdown__mindoc-1hho7blr2j340__mindoc-1hho9u0cbfe60__portfolio.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340/mindoc-1hho9u0cbfe60/portfolio.html`
+- [通达信量化平台](pages/markdown__mindoc-1hho7blr2j340__mindoc-1hho9u0cbfe60__position.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340/mindoc-1hho9u0cbfe60/position.html`
+- [通达信量化平台](pages/markdown__mindoc-1hho7blr2j340__mindoc-1hho9u0cbfe60__bar.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340/mindoc-1hho9u0cbfe60/bar.html`
+- [通达信量化平台](pages/markdown__mindoc-1hho7blr2j340__mindoc-1hho9u0cbfe60__runinfo.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340/mindoc-1hho9u0cbfe60/runinfo.html`
+- [通达信量化平台](pages/markdown__mindoc-1hho7blr2j340__mindoc-1hhoa58m7i93s__mindoc-1hhoae0q7sqok.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340/mindoc-1hhoa58m7i93s/mindoc-1hhoae0q7sqok.html`
+- [通达信量化平台](pages/markdown__mindoc-1hho7blr2j340__mindoc-1hhobbn0nuedg__mindoc-1hhoberagvv8c.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1hho7blr2j340/mindoc-1hhobbn0nuedg/mindoc-1hhoberagvv8c.html`
+- [重命名自定义板块](pages/markdown__mindoc-1h139a4ckchkk__mindoc-1h10s7n863d50.html.md) — `https://help.tdx.com.cn/quant/docs/markdown/mindoc-1h139a4ckchkk/mindoc-1h10s7n863d50.html`
